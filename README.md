@@ -25,7 +25,7 @@ A real-time chat app built with **React (Vite)** on the frontend and **Node.js +
 ## 📸 Screenshots
 
 **Login screen (dummy username-based auth)**
-![Login screen](./screenshots/01-login.png)
+https://github.com/shahanshah786/real-time-chat-app/blob/de1b8e7dc523e290d4a8df2673f0acfeb313608c/Screenshot%202026-07-12%20130158.png
 
 **Chat window with message sent, timestamp, and delivered/read ticks**
 ![Single user chat](./screenshots/02-chat-single-user.png)
