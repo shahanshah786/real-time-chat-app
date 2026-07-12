@@ -133,7 +133,7 @@ Open **http://localhost:5173**, enter a username, and start chatting. Open the a
 
 ## 🚀 Deployment
 
-**Live Backend API URL:** https://tumhara-render-url.onrender.com
+**Live Backend API URL:** https://chat-backend-1i2j.onrender.com/
 
 The backend has been deployed on **Render** as a Node web service, with the `CLIENT_ORIGIN` environment variable set to allow requests from the frontend.
 
