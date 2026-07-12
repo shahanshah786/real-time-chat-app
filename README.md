@@ -131,13 +131,11 @@ Open **http://localhost:5173**, enter a username, and start chatting. Open the a
 
 ---
 
-## 🚀 Deployment (optional bonus)
+## 🚀 Deployment
 
-To deploy:
-- **Backend**: Deploy `backend/` to Render/Railway as a Node web service. Set `CLIENT_ORIGIN` env var to your deployed frontend URL.
-- **Frontend**: Deploy `frontend/` (after `npm run build`) to Vercel/Netlify/Render Static Site. Set `VITE_API_URL` to your deployed backend URL.
+**Live Backend API URL:** https://tumhara-render-url.onrender.com
 
----
+The backend has been deployed on **Render** as a Node web service, with the `CLIENT_ORIGIN` environment variable set to allow requests from the frontend.
 
 ## 📱 Note on APK
 
