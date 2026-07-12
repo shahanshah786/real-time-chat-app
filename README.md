@@ -22,6 +22,22 @@ A real-time chat app built with **React (Vite)** on the frontend and **Node.js +
 
 ---
 
+## 📸 Screenshots
+
+**Login screen (dummy username-based auth)**
+![Login screen](./screenshots/01-login.png)
+
+**Chat window with message sent, timestamp, and delivered/read ticks**
+![Single user chat](./screenshots/02-chat-single-user.png)
+
+**Multiple users online, live typing/messages, and presence sidebar**
+![Multiple users chatting](./screenshots/03-multiple-users-chat.png)
+
+**Real-time sync across multiple browser windows (3 users chatting simultaneously)**
+![Multi-window real-time sync](./screenshots/04-multi-window-realtime.png)
+
+---
+
 ## 🗂 Project Structure
 
 ```
@@ -41,6 +57,7 @@ real-time-chat-app/
 │   │   ├── App.jsx
 │   │   └── styles.css
 │   └── package.json
+├── screenshots/                 # App screenshots used in this README
 └── README.md
 ```
 
