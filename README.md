@@ -28,13 +28,11 @@ A real-time chat app built with **React (Vite)** on the frontend and **Node.js +
 ![UserNAme](https://github.com/shahanshah786/real-time-chat-app/blob/677fe3479730024f6bd99e3577df189b1a5c5235/Screenshot%202026-07-12%20130158.png)
 
 **Chat window with message sent, timestamp, and delivered/read ticks**
-![Single user chat](./screenshots/02-chat-single-user.png)
+![Single user chat](https://github.com/shahanshah786/real-time-chat-app/blob/d0cbbb3ff9117de12692a677290ea0ce2c99c33d/Screenshot%202026-07-12%20130219.png)
 
-**Multiple users online, live typing/messages, and presence sidebar**
-![Multiple users chatting](./screenshots/03-multiple-users-chat.png)
 
 **Real-time sync across multiple browser windows (3 users chatting simultaneously)**
-![Multi-window real-time sync](./screenshots/04-multi-window-realtime.png)
+![Multi-window real-time sync](https://github.com/shahanshah786/real-time-chat-app/blob/de1b8e7dc523e290d4a8df2673f0acfeb313608c/Screenshot%202026-07-12%20132501.png)
 
 ---
 
